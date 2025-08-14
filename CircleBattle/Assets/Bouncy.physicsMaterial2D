@@ -6,7 +6,7 @@ PhysicsMaterial2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "\u043A\u0440\u0443\u0433\u0438"
+  m_Name: Bouncy
   serializedVersion: 2
   friction: 0
   bounciness: 1
